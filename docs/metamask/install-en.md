@@ -25,4 +25,4 @@
 
 Open [https://metamask.io/](https://metamask.io/) and install metamask on chrome as the following:
 
-![install.gif](/install.gif)
+![install.gif](/docs/metamask/install.gif)
