@@ -34,6 +34,7 @@
   * [AddToken](#AddToken)
   * [CheckBalance](#CheckBalance)
   * [Approve](#Approve)
+  * [Sell](#Sell)
 
 
 # What
@@ -76,6 +77,12 @@ Your balance is recorded in [ethereum], So you have to check the balance on [eth
 
 # Approve
 
-Because [etherpush] will transfer your token balance to [etherpush], So before your pushing your token, you should approve permission to [etherpush] as the following:
+Because [etherpush] will transfer your token balance to [etherpush], So before you pushing your token, you should approve permission to [etherpush] as the following:
 
 ![approve](/docs/approve.gif)
+
+# Sell
+
+Once you approve [etherpush] to transfer your token, You can sell token as the following:
+
+![sell](/docs/sell.gif)
