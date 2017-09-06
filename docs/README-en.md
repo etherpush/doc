@@ -31,6 +31,7 @@
 * [Usage](#Usage)
   * [Prerequisite](#Prerequisite)
   * [Account](#Account)
+  * [AddToken](#AddToken)
 
 
 # What
@@ -56,3 +57,11 @@ The [Metamask](https://metamask.io/) is easy to non-technology users. You can ch
 You can check your token balance on account page as the following:
 
 ![account](/docs/account.gif)
+
+# AddToken
+
+Our Avaliable token is landed in [https://github.com/etherpush/ERC20-tokens](https://github.com/etherpush/ERC20-tokens), Any one can send a PR to it :)
+
+If you want to add token, just do as the following:
+
+![addtoken](/docs/addtoken.gif)
