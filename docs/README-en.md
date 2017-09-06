@@ -31,7 +31,7 @@
 * [Usage](#Usage)
   * [Prerequisite](#Prerequisite)
   * [Account](#Account)
-  
+
 
 # What
 [etherpush] is a dapp (smart contract) based on the [ethereum] which aims to provide the token <=> token exchange on the decentralized [ethereum].
@@ -52,7 +52,7 @@ Now the [etherpush] only support seller push token and share the order to friend
 The [Metamask](https://metamask.io/) is easy to non-technology users. You can check [this](/docs/metamask/install-en.md) to install [Metamask]
 
 # Account
-  
+
 You can check your token balance on account page as the following:
 
-
+![account](/docs/account.gif)
