@@ -32,6 +32,8 @@
   * [Prerequisite](#Prerequisite)
   * [Account](#Account)
   * [AddToken](#AddToken)
+  * [CheckBalance](#CheckBalance)
+  * [Approve](#Approve)
 
 
 # What
@@ -65,3 +67,15 @@ Our Avaliable token is landed in [https://github.com/etherpush/ERC20-tokens](htt
 If you want to add token, just do as the following:
 
 ![addtoken](/docs/addtoken.gif)
+
+# CheckBalance
+
+Your balance is recorded in [ethereum], So you have to check the balance on [etheteum] as the following:
+
+![checkbalance](/docs/checkbalance.gif)
+
+# Approve
+
+Because [etherpush] will transfer your token balance to [etherpush], So before your pushing your token, you should approve permission to [etherpush] as the following:
+
+![approve](/docs/approve.gif)
