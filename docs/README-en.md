@@ -22,12 +22,15 @@
 
 [etherpush]: https://etherpush.io
 [ethereum]: https://ethereum.org
+[Metamask]: https://metamask.io/
+[Mist]:https://github.com/ethereum/mist/releases
+[Parity]:https://github.com/paritytech/parity/releases
 
 * [What](#What)
 * [How](#How)
 * [Usage](#Usage)
-  * [Prerequisite](##Prerequisite)
-  * [Account](##Account)
+  * [Prerequisite](#Prerequisite)
+  * [Account](#Account)
   
 
 # What
@@ -39,16 +42,16 @@ Now the [etherpush] only support seller push token and share the order to friend
 
 # Usage
 
-## Prerequisite
+# Prerequisite
 
 [etherpush] is running on the [ethereum]. So you should use ethereum browser to open [etherpush]. We are recommended to use the wallet as the following:
   1. [Mist](https://github.com/ethereum/mist/releases)
   2. [Parity](https://github.com/paritytech/parity/releases)
   3. [Metamask](https://metamask.io/)
 
-The [Metamask](https://metamask.io/) is easy to non-technology users.
+The [Metamask](https://metamask.io/) is easy to non-technology users. You can check [this](/docs/metamask/install-en.md) to install [Metamask]
 
-## Account
+# Account
   
 You can check your token balance on account page as the following:
 
