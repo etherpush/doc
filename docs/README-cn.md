@@ -27,8 +27,8 @@
 [Mist]:https://github.com/ethereum/mist/releases
 [Parity]:https://github.com/paritytech/parity/releases
 
-* [什么是 EtherPush](#什么是 EtherPush)
-* [EtherPush 怎么样](#EtherPush 怎么样)
+* [什么是EtherPush](#什么是EtherPush)
+* [EtherPush怎么样](#EtherPush怎么样)
 * [使用说明](#使用说明)
   * [软件安装](#软件安装)
   * [Account](#account)
@@ -38,11 +38,11 @@
   * [Sell](#sell)
   * [Buy](#buy)
   
-# 什么是 EtherPush
+# 什么是EtherPush
 
 [EtherPush] 是运行在[以太坊上]的智能合约，意在提供去中心化的链上 token 交易.
 
-# EtherPush 怎么样
+# EtherPush怎么样
 
 [EtherPush] 现阶段（预览版本）只支持卖家出售 token 生成订单。下个版本 [EtherPush] 将会冻结当前的合约并升级到最新的合约支持 token 到 token 的交易，并提供交易界面帮助交易。
 
