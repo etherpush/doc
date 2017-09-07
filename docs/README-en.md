@@ -35,6 +35,7 @@
   * [CheckBalance](#CheckBalance)
   * [Approve](#Approve)
   * [Sell](#Sell)
+  * [Buy](#Buy)
 
 
 # What
@@ -86,3 +87,9 @@ Because [etherpush] will transfer your token balance to [etherpush], So before y
 Once you approve [etherpush] to transfer your token, You can sell token as the following:
 
 ![sell](/docs/sell.gif)
+
+# Buy
+
+You can buy the token by the URL from your friends like []() as the following:
+
+![buy](/docs/buy.gif)
