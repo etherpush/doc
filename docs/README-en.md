@@ -26,16 +26,16 @@
 [Mist]:https://github.com/ethereum/mist/releases
 [Parity]:https://github.com/paritytech/parity/releases
 
-* [What](#What)
-* [How](#How)
-* [Usage](#Usage)
-  * [Prerequisite](#Prerequisite)
-  * [Account](#Account)
-  * [AddToken](#AddToken)
-  * [CheckBalance](#CheckBalance)
-  * [Approve](#Approve)
-  * [Sell](#Sell)
-  * [Buy](#Buy)
+* [What](#what)
+* [How](#how)
+* [Usage](#usage)
+  * [Prerequisite](#prerequisite)
+  * [Account](#account)
+  * [AddToken](#addtoken)
+  * [CheckBalance](#checkbalance)
+  * [Approve](#approve)
+  * [Sell](#sell)
+  * [Buy](#buy)
 
 
 # What
