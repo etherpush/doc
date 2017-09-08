@@ -37,7 +37,7 @@
   * [Approve](#approve)
   * [Sell](#sell)
   * [Buy](#buy)
-  
+
 # 什么是EtherPush
 
 [EtherPush] 是运行在[以太坊上]的智能合约，意在提供去中心化的链上 token 交易.
@@ -62,7 +62,7 @@
 
 你可以通过以下说明查看每个 token 的余额:
 
-![account](/docs/account.gif)
+![account](/docs/20170601/images/account.gif)
 
 # 添加token
 
@@ -70,13 +70,13 @@
 
 你可以参考如下图示去添加一个 token:
 
-![addtoken](/docs/addtoken.gif)
+![addtoken](/docs/20170601/images/addtoken.gif)
 
 # 检查余额
 
 因为你的余额被记录在 [以太坊], 所以你不必担心，所有的余额都可以通过如下方式检查:
 
-![checkbalance](/docs/checkbalance.gif)
+![checkbalance](/docs/20170601/images/checkbalance.gif)
 
 # 授权
 
@@ -84,16 +84,16 @@
 因为 [EtherPush] 需要转移你的 token 到 [EtherPush]，所以在你出售你的 token 之前，你应该给 [EtherPush] 授权。如下所示:
 
 
-![approve](/docs/approve.gif)
+![approve](/docs/20170601/images/approve.gif)
 
 # 出售
 
 一旦你授权给 [EtherPush] 对应的 Token， 你就可以出售此 Token。如下所示:
 
-![sell](/docs/sell.gif)
+![sell](/docs/20170601/images/sell.gif)
 
 # Buy
 
 你可以通过朋友那里获得的网页链接购买对应的 token， 如下所示:
 
-![buy](/docs/buy.gif)
+![buy](/docs/20170601/images/buy.gif)
