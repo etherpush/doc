@@ -60,7 +60,7 @@ The [Metamask](https://metamask.io/) is easy to non-technology users. You can ch
 
 You can check your token balance on account page as the following:
 
-![account](20170601/images//docs/account.gif)
+![account](images/account.gif)
 
 # AddToken
 
