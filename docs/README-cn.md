@@ -31,12 +31,15 @@
 * [EtherPush怎么样](#EtherPush怎么样)
 * [使用说明](#使用说明)
   * [软件安装](#软件安装)
-  * [Account](#account)
-  * [AddToken](#addtoken)
-  * [CheckBalance](#checkbalance)
-  * [Approve](#approve)
-  * [Sell](#sell)
-  * [Buy](#buy)
+  * [账户](#账户)
+  * [添加token](#添加token)
+  * [充值token](#充值token)
+  * [检查余额](#检查余额)
+  * [授权](#授权)
+  * [提现](#体现)
+  * [出售](#出售)
+  * [购买](#购买)
+  * [分享](#分享)
 
 # 什么是EtherPush
 
@@ -62,7 +65,7 @@
 
 你可以通过以下说明查看每个 token 的余额:
 
-![account](/docs/20170601/images/account.gif)
+![account](images/account.gif)
 
 # 添加token
 
@@ -70,13 +73,19 @@
 
 你可以参考如下图示去添加一个 token:
 
-![addtoken](/docs/20170601/images/addtoken.gif)
+![addtoken](images/addtoken.gif)
+
+# 充值token
+
+你必须要往 [etherpush] 充值 token，才可以进行交易。
+
+![deposit](images/deposit.gif)
 
 # 检查余额
 
 因为你的余额被记录在 [以太坊], 所以你不必担心，所有的余额都可以通过如下方式检查:
 
-![checkbalance](/docs/20170601/images/checkbalance.gif)
+![checkbalance](images/checkbalance.gif)
 
 # 授权
 
@@ -84,16 +93,22 @@
 因为 [EtherPush] 需要转移你的 token 到 [EtherPush]，所以在你出售你的 token 之前，你应该给 [EtherPush] 授权。如下所示:
 
 
-![approve](/docs/20170601/images/approve.gif)
+![approve](images/approve.gif)
 
 # 出售
 
 一旦你授权给 [EtherPush] 对应的 Token， 你就可以出售此 Token。如下所示:
 
-![sell](/docs/20170601/images/sell.gif)
+![sell](images/sell.gif)
 
-# Buy
+# 购买
 
 你可以通过朋友那里获得的网页链接购买对应的 token， 如下所示:
 
-![buy](/docs/20170601/images/buy.gif)
+![buy](images/buy.gif)
+
+# 分享
+
+你可以分享你的链接到社交网络, 如下所示
+
+![share](images/share.gif)
