@@ -36,6 +36,7 @@
   * [Deposit](#Deposit)
   * [CheckBalance](#checkbalance)
   * [Sell](#sell)
+  * [Share](#share)
   * [Buy](#buy)
 
 
@@ -95,6 +96,12 @@ Your balance is recorded in [ethereum], So you have to check the balance on [eth
 Once you approve [etherpush] to transfer your token, You can sell token as the following:
 
 ![sell](images/sell.gif)
+
+# Share
+
+You can share your push to social network as the following:
+
+![share](images/share.gif)
 
 # Buy
 
