@@ -35,6 +35,7 @@
   * [Approve](#approve)
   * [Deposit](#Deposit)
   * [CheckBalance](#checkbalance)
+  * [Withdraw](#withdraw)
   * [Sell](#sell)
   * [Share](#share)
   * [Buy](#buy)
@@ -90,6 +91,11 @@ Your balance is recorded in [ethereum], So you have to check the balance on [eth
 
 ![checkbalance](images/checkbalance.gif)
 
+# Withdraw
+
+You can withdraw the token from [etherpush] as the following:
+
+![withdraw](images/withdraw.gif)
 
 # Sell
 
