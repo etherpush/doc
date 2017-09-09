@@ -32,8 +32,9 @@
   * [Prerequisite](#prerequisite)
   * [Account](#account)
   * [AddToken](#addtoken)
-  * [CheckBalance](#checkbalance)
   * [Approve](#approve)
+  * [Deposit](#Deposit)
+  * [CheckBalance](#checkbalance)
   * [Sell](#sell)
   * [Buy](#buy)
 
@@ -70,17 +71,24 @@ If you want to add token, just do as the following:
 
 ![addtoken](images/addtoken.gif)
 
+# Approve
+
+Because [etherpush] will transfer your token balance to [etherpush], So before you pushing your token, you should approve permission to [etherpush] as the following:
+
+![approve](images/approve.gif)
+
+# Deposit
+
+After approving the token, you can deposit token to etherpush] as the following:
+
+![deposit](images/deposit.gif)
+
 # CheckBalance
 
 Your balance is recorded in [ethereum], So you have to check the balance on [etheteum] as the following:
 
 ![checkbalance](images/checkbalance.gif)
 
-# Approve
-
-Because [etherpush] will transfer your token balance to [etherpush], So before you pushing your token, you should approve permission to [etherpush] as the following:
-
-![approve](images/approve.gif)
 
 # Sell
 
