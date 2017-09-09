@@ -85,7 +85,7 @@ After approving the token, you can deposit token to etherpush] as the following:
 
 # CheckBalance
 
-Your balance is recorded in [ethereum], So you have to check the balance on [etheteum] as the following:
+Your balance is recorded in [ethereum], So you have to check the balance on [ethereum] as the following:
 
 ![checkbalance](images/checkbalance.gif)
 
@@ -94,10 +94,10 @@ Your balance is recorded in [ethereum], So you have to check the balance on [eth
 
 Once you approve [etherpush] to transfer your token, You can sell token as the following:
 
-![sell](/docs/20170601/images/sell.gif)
+![sell](images/sell.gif)
 
 # Buy
 
 You can buy the token by the URL from your friends like []() as the following:
 
-![buy](/docs/20170601/images/buy.gif)
+![buy](images/buy.gif)
